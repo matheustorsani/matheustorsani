@@ -2,4 +2,4 @@
 - 🌱 I’m currently learning JS, TS, HTML and CSS.
 - 🧾 Working on the Skye project!
 - 📫 @demetriuskiun on twitter.
-- 😅 My website https://matheustorsani.github.io/urldemetrius // OFF
+- 😅 My website https://urldemetrius.online
