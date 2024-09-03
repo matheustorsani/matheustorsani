@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matheustorsani.
 - 🌱 I’m currently learning JS, TS, HTML and CSS.
 - 🧾 Working on the Skye project!
-- 📫 @demetriuskiun on twitter.
+- 📫 @demetriuskiun on twitter (F Brazil), @urldemetrius.online on bluesky.
 - 😅 My website https://urldemetrius.online
