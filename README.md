@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Skye](https://github.com/matheustorsani/Skye).
+🔭 I’m currently working on [Selecta](https://github.com/matheustorsani/SelectaApp) – TCC
 
 😎 [Personal Website](https://urldemetrius.space)
 
