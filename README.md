@@ -81,6 +81,7 @@
 
 ###
 
+<div align="center">
 <a href="https://github.com/tthn0/Spotify-Readme">
   <picture>
     <source
@@ -89,3 +90,5 @@
     <img alt="Current Spotify Song"> 
   </picture>
 </a>
+</div>
+
