@@ -81,14 +81,4 @@
 
 ###
 
-<div align="center">
-<a href="https://github.com/tthn0/Spotify-Readme">
-  <picture>
-    <source
-      srcset="https://matheustorsani.pythonanywhere.com/?theme=dark&spin=true&scan=true&eq_color=2f8dd4"
-    />
-    <img alt="Current Spotify Song"> 
-  </picture>
-</a>
-</div>
 
