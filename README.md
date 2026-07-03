@@ -31,35 +31,21 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="60" alt="digitalocean logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="60" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="60" alt="linux logo"  />
 </div>
